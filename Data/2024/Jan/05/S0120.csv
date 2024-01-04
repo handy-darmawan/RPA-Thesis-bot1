@@ -1,0 +1,72 @@
+﻿Transaction ID;Lecturer Code;Lecturer Name;Course Code;Course Description;Class Code;Meeting Time Start;Meeting Time End;Transaction Date;Transaction Link;Status Description
+214;LC111;Prof. Miller Taylor;ABCD1234;Research Methodology;YMD-34;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+215;LC222;Dr. Wilson Brown;PQRT9012;Advanced Machine Learning;NHE-26;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+216;LC333;Ms. Moore Thompson;EFGH1234;Fundamental In Game Balancing;FKQ-51;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+217;LC444;Mr. Martinez Johnson;ABCD9921;Tropical Architecture;ZVR-25;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+218;LC555;Dr. Mitchell White;WXYZ1234;Product & Brand Strategy;YAO-62;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+219;LC666;Prof. Turner Parker;IJKL9012;Social Media Broadcasting;HFS-78;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+220;LC777;Ms. Parker Phillips;CDEF9012;Tourism Destination and Planning Management;AVN-05;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+221;LC888;Mr. Phillips Davis;EFGH5678;Sustainable Engineering Systems;PLW-68;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+222;LC999;Dr. Cooper Robinson;YZAB2345;Mobile Application Design;GPG-10;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+223;LC121;Prof. Bennett Carter;WXYZ3456;Introduction to Machine Learning;EVS-32;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+224;LC232;Ms. Reed Foster;IJKL9012;Social Media Broadcasting;UTN-82;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+225;LC343;Mr. Foster Williams;YZAB3456;Financial Management;AVN-05;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+226;LC454;Dr. Coleman Harris;YZAB1234;Ethics in Technology;EJT-43;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+227;LC565;Prof. Russell Turner;IJKL1209;Data & Text Mining;NHE-26;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+228;LC676;Ms. Hayes Longfellow;WXYZ3456;Introduction to Machine Learning;BDQ-58;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+229;LC787;Mr. Jenkins Jefferson;UVWX9012;Entrepreneurship: Prototyping;AVN-05;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+230;LC898;Dr. Fisher Miller;WXYZ3456;Introduction to Machine Learning;KFF-80;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+231;LC909;Prof. Simpson Anderson;KLMN5678;Intermediate Japanese Grammar & Reading Comprehension II;NXC-24;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+232;LC131;Ms. Wells Smith;STUF1998;Learning and Cognitive Psychology;OPZ-14;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+233;LC781;Prof. Anderson Rodriguez;OPQR9012;Digital Security and Privacy;EJT-43;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+234;LC492;Dr. Foster Sanchez;CDEF6789;Data Visualization Techniques;GPG-10;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+235;LC563;Ms. Turner Reynolds;EFGH0012;Game Tools Development;CXF-57;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+236;LC124;Mr. Rodriguez Bennett;MNOP3782;Global Supply Chain;FQX-36;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+237;LC895;Dr. Mitchell Taylor;OPQR9012;Digital Security and Privacy;RMC-36;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+238;LC236;Prof. Sanchez Jefferson;UVWX5678;Digital Marketing Strategies;NXB-53;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+239;LC657;Ms. Reynolds Jenkins;IJKL3456;Communication Research Methodology;UBU-84;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+240;LC408;Mr. Bennett Miller;PQRS5678;Network Security Fundamentals;GXQ-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+241;LC719;Dr. Taylor Carter;MNOP3782;Global Supply Chain;FDD-80;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+242;LC530;Prof. Coleman Wilson;ABCD5678;Algorithm and Programming;RMC-36;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+243;LC841;Ms. Parker Hayes;ABCD1234;Research Methodology;WFW-47;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+244;LC972;Mr. Jenkins Russell;STUV5678;Cloud Computing Technologies;GXQ-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+245;LC303;Dr. Wells Miller;EFGH0012;Game Tools Development;GXQ-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+246;LC654;Prof. Russell Davis;LMNO5678;Human-Computer Interaction;ZJS-42;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+247;LC126;Ms. Hayes Jefferson;EFGH9012;Chemistry for Civil Engineering;SOY-75;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+248;LC879;Mr.Miller Cooper;WXYZ3456;Introduction to Machine Learning;GPG-10;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+249;LC945;Dr. Fisher Longfellow;WXYZ3456;Introduction to Machine Learning;NXC-24;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+250;LC317;Prof. Cooper Parker;UVWX9012;Entrepreneurship: Prototyping;OPZ-14;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+251;LC608;Ms. Longfellow Anderson;QRST5678;Embedded System and Internet of Things;KFF-80;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+252;LC231;Mr. Jefferson Anto;QRST9012;Introduction to Management and Business;GPG-10;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+253;LC345;Prof. Taylor Bennett;ABCD5678;Algorithm and Programming;LSH-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+254;LC456;Dr. Brown Williams;QRST9012;Introduction to Management and Business;KCN-51;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+255;LC567;Ms. Thompson Robinson;UVWX5678;Digital Marketing Strategies;WFW-47;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+256;LC678;Mr. Johnson Davis;IJKL9012;Social Media Broadcasting;EGM-59;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+257;LC789;Dr. White Jenkins;MNOP5678;Design History Studies;JDV-97;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+258;LC890;Mr. Wilson Parker;OPQR9012;Digital Security and Privacy;CFY-02;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+259;LC901;Dr. Rodriguez Jenkins;WXYZ3456;Introduction to Machine Learning;CFY-02;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+260;LC112;Mr. Davis Turner;QRST9281;Accounting Principles;VPE-81;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+261;LC223;Dr. Robinson Cooper;STUV5678;Cloud Computing Technologies;CXF-57;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+262;LC334;Prof. Carter Rodriguez;STUV5678;Cloud Computing Technologies;PRJ-15;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+263;LC445;Ms. Foster Turner;YZAB1234;Ethics in Technology;VBG-36;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+264;LC556;Mr. Williams Longfellow;OPQR9012;Digital Security and Privacy;CFY-02;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+265;LC667;Dr. Harris Russell;GHIJ2345;Visual Storytelling;GPG-10;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+266;LC778;Prof. Turner Cooper;EFGH9012;Chemistry for Civil Engineering;FDD-80;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+267;LC889;Ms. Longfellow Hayes;EFGH0012;Game Tools Development;PLJ-62;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+268;LC900;Mr. Jefferson Jenkins;STUV5678;Cloud Computing Technologies;LSH-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+269;LC113;Dr. Brown Anderson;CDEF6789;Data Visualization Techniques;LSH-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+270;LC224;Prof. Turner Foster;OPQR5678;Psychological Intervention;NXB-53;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+271;LC335;Ms. Phillips White;ABCD1234;Research Methodology;EJT-43;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+272;LC446;Mr. Jefferson Taylor;ABCD1234;Research Methodology;ONM-43;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+273;LC557;Dr. Foster Robinson;LMNO1234;Artificial Intelligence Ethics;GXQ-61;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+274;LC668;Ms. Williams Thompson;OPQR9012;Digital Security and Privacy;PLJ-62;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+275;LC779;Prof. Davis Smith;MNOP3782;Global Supply Chain;UTN-82;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+276;LC114;Ms. Longfellow Hayes_1;YZAB1234;Ethics in Technology;SMU-22;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+277;LC225;Mr. Russell Phillips;STUF1998;Learning and Cognitive Psychology;UBU-84;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+278;LC336;Prof. Foster White;KLMN5678;Intermediate Japanese Grammar & Reading Comprehension II;OPZ-14;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+279;LC447;Dr. Davis Taylor;YZAB1234;Ethics in Technology;CLI-69;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+280;LC558;Ms. Robinson Foster;IJKL1209;Data & Text Mining;CXF-57;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+281;LC669;Mr. Turner Smith;ABCD5678;Algorithm and Programming;YAO-62;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+282;LC780;Dr. Bennett Turner;CDEF9012;Tourism Destination and Planning Management;EVS-32;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+283;LC891;Prof. Cooper Brown;STUV8912;Internet of Things Applications;FDD-80;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
+284;LC902;Ms. Jenkins Parker;GHIJ9012;Mobile App Development;HFS-78;13:20;15:00;01/05/2024 00:00:00;zoommtg://zoom.us/join?confno=8832108083&pwd=&uname=;None
